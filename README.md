@@ -33,3 +33,9 @@ A Logistic Regression model was used to predict churn.
 
 ## Project Structure
 - notebooks/ → Jupyter notebook with full analysis and model
+
+## 📊 Churn Rate by Country
+
+![Churn by Country](images/churn_by_country.png)
+
+Germany shows a significantly higher churn rate (~32%) compared to other countries (~16%).
